@@ -1,7 +1,7 @@
 package top.theillusivec4.elytratrinket.client;
 
 import net.fabricmc.api.ClientModInitializer;
-import net.fabricmc.fabric.api.client.rendereregistry.v1.LivingEntityFeatureRendererRegistrationCallback;
+import net.fabricmc.fabric.api.client.rendering.v1.LivingEntityFeatureRendererRegistrationCallback;
 
 public class ElytraTrinketClientMod implements ClientModInitializer {
 
